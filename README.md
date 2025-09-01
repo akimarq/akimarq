@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akimarq!
+- 👋 Hi, I’m //aki
 - 👀 I’m interested in becoming a full-stack developer.
 - 🌱 I’m currently learning html, css, javascript (reactjs and nodejs) in that order.
 - 💞️ I’m looking to collaborate on whatever comes across! (within my skillset)
