@@ -1,6 +1,6 @@
 - 👋 Hi, I’m //aki
 - 👀 I’m interested in becoming a full-stack developer.
-- 🌱 I’m currently learning html, css, javascript (reactjs and nodejs) in that order.
+- 🌱 I’m currently learning Node.js, React.js, Next.js and Express.js
 - 💞️ I’m looking to collaborate on whatever comes across! (within my skillset)
 - 📫 How to reach me: c1yde808 on discord
 - 😄 Pronouns: he/him
