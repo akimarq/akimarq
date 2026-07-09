@@ -1,10 +1,8 @@
 - 👋 Hi, I’m //aki
-- 👀 I’m interested in becoming a full-stack developer.
-- 🌱 I’m currently learning Node.js, React.js, Next.js and Express.js
-- 💞️ I’m looking to collaborate on whatever comes across! (within my skillset)
-- 📫 How to reach me: c1yde808 on discord
+- 👀 I’m currently interested in Mobile Development.
+- 🌱 I’m currently learning Dart and Flutter.
+- 📫 How to reach me: aki808 on discord, akimarqueses@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 akimarq/akimarq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
