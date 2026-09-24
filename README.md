@@ -1,6 +1,6 @@
 - 👋 Hi, I’m //aki
-- 👀 I’m currently interested in Mobile Development.
-- 🌱 I’m currently learning Dart and Flutter.
+- 👀 I’m currently interested in Web Development.
+- 🌱 I’m currently learning Dart, Flutter and NextJS.
 - 📫 How to reach me: aki808 on discord or akimarqueses@gmail.com
 - 😄 Pronouns: he/him
 
